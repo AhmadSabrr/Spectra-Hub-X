@@ -103,7 +103,7 @@ Submit.MouseButton1Click:Connect(function()
 		wait(0.5)
 		TweenService:Create(Main,TweenInfo.new(0.5),{Position=UDim2.new(0.5,-200,1,300)}):Play()
 		wait(0.5)
-loadstring(game:HttpGet("https://raw.githubusercontent.com/EncryptedV10/Spectra-Hub-X/refs/heads/main/muscle%20legend"))()
+loadstring(game:HttpGet("loadstring(game:HttpGet("https://raw.githubusercontent.com/AhmadSabrr/Space-Hub/refs/heads/main/Muscle%20legend"))()"))()
 		Submit.Text = "Wrong Key ❌"
 		wait(1)
 		Submit.Text = "Submit Key"
